@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF: 1, TELECADENA
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF: 1, BeinSport
+http://viewplayer.ip1v.com:25461/live/maan/test/22.m3u8
+#EXTINF: 1, BeinSport Prem
+http://viewplayer.ip1v.com:25461/live/maan/test/23.m3u8
+#EXTINF: 1, BeinSport Prem 2
+http://viewplayer.ip1v.com:25461/live/maan/test/24.m3u8
+#EXTINF: 1, BeinSport Eng
+http://viewplayer.ip1v.com:25461/live/maan/test/25.m3u8
+#EXTINF: 1, BeinSport Eng 2
+http://viewplayer.ip1v.com:25461/live/maan/test/26.m3u8
+#EXTINF: 1, BeinSport Arab
+http://viewplayer.ip1v.com:25461/live/maan/test/27.m3u8
+#EXTINF: 1, Star Sport
+http://dpasdl08.tth.cl:8745/eros/starsportsselect1/playlist.m3u8
+#EXTINF: 1, BeinSport FR
+http://can.off.li:4946/cobra/bein1fr/playlist.m3u8
